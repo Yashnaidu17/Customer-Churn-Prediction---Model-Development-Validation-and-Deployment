@@ -1,0 +1,2 @@
+# Customer-Churn-Prediction---Model-Development-Validation-and-Deployment
+Customer churn, defined as the rate at which customers discontinue their subscriptions or services, represents one of the most critical challenges in subscription-based industries. In the telecommunications sector, acquiring a new customer costs 5-25 times more than retaining an existing one, making churn prevention a strategic priority.
