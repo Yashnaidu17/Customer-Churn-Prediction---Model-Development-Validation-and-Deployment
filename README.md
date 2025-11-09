@@ -160,7 +160,7 @@ prediction = model.predict(customer_data)
 probability = model.predict_proba(customer_data)[:, 1]
 ```
 
-## 📈 Methodology
+##  Methodology
 
 ### 1. Data Preparation
 - **Data Cleaning:** Handled missing values, removed duplicates, treated outliers
@@ -185,12 +185,12 @@ probability = model.predict_proba(customer_data)[:, 1]
 | Logistic Regression | 80.2% | 0.85 | 0.79 | 0.75 |
 
 **Evaluation Metrics:**
-- ✅ Accuracy Score
-- ✅ ROC-AUC Score
-- ✅ Lift Charts
-- ✅ Gains Charts
-- ✅ Confusion Matrix
-- ✅ Precision-Recall Curves
+-  Accuracy Score
+-  ROC-AUC Score
+-  Lift Charts
+-  Gains Charts
+-  Confusion Matrix
+-  Precision-Recall Curves
 
 ### 4. Model Deployment 
 
@@ -274,7 +274,7 @@ def retrain_pipeline():
 - Model latency and throughput
 
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please follow these steps:
 
